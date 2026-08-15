@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1080" viewBox="0 0 1080 1080">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#0d0d1a"/>
+      <stop offset="100%" stop-color="#1a1a2e"/>
+    </linearGradient>
+    <linearGradient id="redGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#e30613"/>
+      <stop offset="100%" stop-color="#b30000"/>
+    </linearGradient>
+  </defs>
+  <rect width="1080" height="1080" fill="url(#bg)"/>
+  <rect x="0" y="0" width="1080" height="80" fill="url(#redGrad)"/>
+  <text x="540" y="52" font-family="Arial Black, Arial, sans-serif" font-size="32" fill="white" text-anchor="middle" font-weight="bold">⚽ SÃO PAULO x CORITIBA</text>
+  <rect x="60" y="110" width="960" height="200" rx="16" fill="#16213e" stroke="#e30613" stroke-width="2"/>
+  <text x="540" y="180" font-family="Arial Black, Arial, sans-serif" font-size="48" fill="white" text-anchor="middle" font-weight="bold">BRASILEIRÃO 2026</text>
+  <text x="540" y="240" font-family="Arial" font-size="28" fill="#e30613" text-anchor="middle" font-weight="bold">Rodada 23 — Morumbis</text>
+  <rect x="60" y="340" width="960" height="500" rx="16" fill="#16213e" stroke="#333" stroke-width="1"/>
+  <text x="540" y="400" font-family="Arial" font-size="24" fill="#e30613" text-anchor="middle" font-weight="bold">📋 ESCALAÇÕES PROVÁVEIS</text>
+  <text x="90" y="460" font-family="Arial" font-size="20" fill="white" font-weight="bold">SÃO PAULO (Dorival Júnior):</text>
+  <text x="90" y="500" font-family="Arial" font-size="18" fill="#aaa">Rafael; Lucas Ramon, Arboleda, Domingos Duarte, Wendell;</text>
+  <text x="90" y="530" font-family="Arial" font-size="18" fill="#aaa">Pablo Maia, Marcos Antônio, Danielzinho, Artur;</text>
+  <text x="90" y="560" font-family="Arial" font-size="18" fill="#aaa">Luciano e Calleri</text>
+  <text x="90" y="610" font-family="Arial" font-size="20" fill="white" font-weight="bold">CORITIBA (Fernando Seabra):</text>
+  <text x="90" y="650" font-family="Arial" font-size="18" fill="#aaa">Pedro Morisco; Tinga, Tiago Cóser, Jacy, Bruno Melo;</text>
+  <text x="90" y="680" font-family="Arial" font-size="18" fill="#aaa">Thiago Santos, Sebastián Gómez, Vini Paulista;</text>
+  <text x="90" y="710" font-family="Arial" font-size="18" fill="#aaa">Lavega, Breno Lopes, Pedro Rocha</text>
+  <text x="90" y="770" font-family="Arial" font-size="20" fill="#e30613" font-weight="bold">📺 sportv e Premiere | 🕐 Confira horário local</text>
+  <text x="540" y="1040" font-family="Arial" font-size="20" fill="#666" text-anchor="middle">@consciencia_tricolor  •  #SPFC #Brasileirão2026</text>
+</svg>
