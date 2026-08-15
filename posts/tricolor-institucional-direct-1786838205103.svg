@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1080" viewBox="0 0 1080 1080">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#0d0d1a"/>
+      <stop offset="100%" stop-color="#1a1a2e"/>
+    </linearGradient>
+    <linearGradient id="redGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#e30613"/>
+      <stop offset="100%" stop-color="#b30000"/>
+    </linearGradient>
+    <linearGradient id="goldGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#FFD700"/>
+      <stop offset="100%" stop-color="#FFA500"/>
+    </linearGradient>
+  </defs>
+  <rect width="1080" height="1080" fill="url(#bg)"/>
+  <rect x="0" y="0" width="1080" height="80" fill="url(#redGrad)"/>
+  <text x="540" y="52" font-family="Arial Black, Arial, sans-serif" font-size="32" fill="white" text-anchor="middle" font-weight="bold">🏟️ MORUMBIS</text>
+  <rect x="60" y="110" width="960" height="200" rx="16" fill="#16213e" stroke="#FFD700" stroke-width="3"/>
+  <text x="540" y="170" font-family="Arial Black, Arial, sans-serif" font-size="40" fill="#FFD700" text-anchor="middle" font-weight="bold">MEIO BILHÃO!</text>
+  <text x="540" y="230" font-family="Arial" font-size="26" fill="white" text-anchor="middle">São Paulo pode fechar grande negócio por naming rights</text>
+  <text x="540" y="260" font-family="Arial" font-size="22" fill="#e30613" text-anchor="middle" font-weight="bold">Valor aproximado: R$ 500 milhões</text>
+  <rect x="60" y="340" width="960" height="500" rx="16" fill="#16213e" stroke="#333" stroke-width="1"/>
+  <text x="540" y="400" font-family="Arial" font-size="24" fill="#FFD700" text-anchor="middle" font-weight="bold">💰 GRANDE NEGÓCIO EM VISTA</text>
+  <text x="90" y="460" font-family="Arial" font-size="20" fill="white">O São Paulo está perto de fechar um dos maiores</text>
+  <text x="90" y="500" font-family="Arial" font-size="20" fill="white">contratos de naming rights da história do futebol brasileiro.</text>
+  <text x="90" y="560" font-family="Arial" font-size="20" fill="white">🏟️ Estádio do Morumbi pode ganhar novo nome comercial</text>
+  <text x="90" y="600" font-family="Arial" font-size="20" fill="white">📈 Valorização do patrimônio do clube</text>
+  <text x="90" y="640" font-family="Arial" font-size="20" fill="white">💵 Recurso fundamental para investimentos no futebol</text>
+  <text x="90" y="700" font-family="Arial" font-size="20" fill="#e30613" font-weight="bold">Negociação em fase avançada!</text>
+  <text x="90" y="760" font-family="Arial" font-size="18" fill="#aaa">Será que vamos ter um novo nome para o Morumbis?</text>
+  <text x="540" y="1040" font-family="Arial" font-size="20" fill="#666" text-anchor="middle">@consciencia_tricolor  •  #SPFC #Morumbis #NamingRights</text>
+</svg>
