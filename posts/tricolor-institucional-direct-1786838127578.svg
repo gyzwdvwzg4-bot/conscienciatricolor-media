@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1080" viewBox="0 0 1080 1080">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#0d0d1a"/>
+      <stop offset="100%" stop-color="#1a1a2e"/>
+    </linearGradient>
+    <linearGradient id="redGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#e30613"/>
+      <stop offset="100%" stop-color="#b30000"/>
+    </linearGradient>
+  </defs>
+  <rect width="1080" height="1080" fill="url(#bg)"/>
+  <rect x="0" y="0" width="1080" height="80" fill="url(#redGrad)"/>
+  <text x="540" y="52" font-family="Arial Black, Arial, sans-serif" font-size="32" fill="white" text-anchor="middle" font-weight="bold">🎟️ INGRESSOS SPFC x CORITIBA</text>
+  <rect x="60" y="110" width="960" height="200" rx="16" fill="#16213e" stroke="#e30613" stroke-width="2"/>
+  <text x="540" y="180" font-family="Arial Black, Arial, sans-serif" font-size="48" fill="white" text-anchor="middle" font-weight="bold">BORA PRO MORUMBIS?</text>
+  <text x="540" y="240" font-family="Arial" font-size="28" fill="#e30613" text-anchor="middle" font-weight="bold">Parcial de vendas disponível</text>
+  <rect x="60" y="340" width="960" height="500" rx="16" fill="#16213e" stroke="#333" stroke-width="1"/>
+  <text x="540" y="400" font-family="Arial" font-size="24" fill="#e30613" text-anchor="middle" font-weight="bold">📊 SETORES DISPONÍVEIS</text>
+  <text x="90" y="460" font-family="Arial" font-size="20" fill="white">✅ Arquibancadas Leste e Norte</text>
+  <text x="90" y="500" font-family="Arial" font-size="20" fill="white">✅ Cadeiras centrais (limitado)</text>
+  <text x="90" y="540" font-family="Arial" font-size="20" fill="white">✅ Camarotes</text>
+  <text x="90" y="600" font-family="Arial" font-size="20" fill="#e30613" font-weight="bold">⚠️ SETORES ESGOTADOS:</text>
+  <text x="90" y="640" font-family="Arial" font-size="20" fill="#aaa">❌ Sul (organizada)</text>
+  <text x="90" y="680" font-family="Arial" font-size="20" fill="#aaa">❌ Oeste premium</text>
+  <text x="90" y="750" font-family="Arial" font-size="22" fill="white" font-weight="bold">🔗 Bilheteria online: spfc.net/ingressos</text>
+  <text x="90" y="790" font-family="Arial" font-size="20" fill="#aaa">🏟️ Morumbis | Brasileirão 2026 — Rodada 23</text>
+  <text x="540" y="1040" font-family="Arial" font-size="20" fill="#666" text-anchor="middle">@consciencia_tricolor  •  #SPFC #Morumbis #Brasileirão2026</text>
+</svg>
