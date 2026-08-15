@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1080" viewBox="0 0 1080 1080">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#0d0d1a"/>
+      <stop offset="100%" stop-color="#1a1a2e"/>
+    </linearGradient>
+    <linearGradient id="redGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#e30613"/>
+      <stop offset="100%" stop-color="#b30000"/>
+    </linearGradient>
+  </defs>
+  <rect width="1080" height="1080" fill="url(#bg)"/>
+  <rect x="0" y="0" width="1080" height="80" fill="url(#redGrad)"/>
+  <text x="540" y="52" font-family="Arial Black, Arial, sans-serif" font-size="32" fill="white" text-anchor="middle" font-weight="bold">🏟️ DE VOLTA AO MORUMBI</text>
+  <rect x="60" y="110" width="960" height="200" rx="16" fill="#16213e" stroke="#e30613" stroke-width="2"/>
+  <text x="540" y="180" font-family="Arial Black, Arial, sans-serif" font-size="44" fill="white" text-anchor="middle" font-weight="bold">MANDANTE APENAS NO PAPEL?</text>
+  <text x="540" y="240" font-family="Arial" font-size="26" fill="#e30613" text-anchor="middle" font-weight="bold">São Paulo é o time que MENOS jogou em casa no Brasileirão</text>
+  <rect x="60" y="340" width="960" height="500" rx="16" fill="#16213e" stroke="#333" stroke-width="1"/>
+  <text x="540" y="400" font-family="Arial" font-size="24" fill="#e30613" text-anchor="middle" font-weight="bold">📊 O DADO QUE PREOCUPA</text>
+  <text x="90" y="460" font-family="Arial" font-size="20" fill="white">O São Paulo é o clube que MENOS atuou no próprio estádio</text>
+  <text x="90" y="500" font-family="Arial" font-size="20" fill="white">durante o Campeonato Brasileiro de 2026.</text>
+  <text x="90" y="560" font-family="Arial" font-size="20" fill="white">🏟️ Poucos jogos como mandante no Morumbis</text>
+  <text x="90" y="600" font-family="Arial" font-size="20" fill="white">⚠️ Frequência de partidas em casa abaixo dos concorrentes</text>
+  <text x="90" y="640" font-family="Arial" font-size="20" fill="white">📉 Isso afeta o rendimento e a relação com a torcida</text>
+  <text x="90" y="700" font-family="Arial" font-size="20" fill="#e30613" font-weight="bold">Por que o Tricolor joga tão pouco em casa?</text>
+  <text x="90" y="760" font-family="Arial" font-size="18" fill="#aaa">Será questão de logística, calendário ou outro motivo?</text>
+  <text x="540" y="1040" font-family="Arial" font-size="20" fill="#666" text-anchor="middle">@consciencia_tricolor  •  #SPFC #Morumbis #Brasileirão2026</text>
+</svg>
